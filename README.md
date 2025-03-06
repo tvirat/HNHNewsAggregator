@@ -1,6 +1,6 @@
-# News Aggregator Application - [![Netlify Status](https://api.netlify.com/api/v1/badges/992d1de3-06ae-4bdb-a95b-e7a5a8cc7d10/deploy-status)](https://app.netlify.com/sites/latestnewsaggregator/deploys)
+# Horizon News Hub (News Aggregator Application) - [![Netlify Status](https://api.netlify.com/api/v1/badges/992d1de3-06ae-4bdb-a95b-e7a5a8cc7d10/deploy-status)](https://app.netlify.com/sites/latestnewsaggregator/deploys)
 
-# Horizon News Hub
+# 
 
 ## Brief Description
 **Horizon News Hub** is a modern and responsive news aggregator web application built with **React.js**. It pulls news articles from multiple trusted sources, providing a seamless experience for users to explore, search, and personalize their news feed. With robust filtering options and a clean interface, the application focuses on delivering news efficiently and intuitively. The project is containerized using **Docker** and deployable on various platforms.
